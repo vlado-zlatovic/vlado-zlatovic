@@ -14,3 +14,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am Vlado Zlatović, a front-end web developer based in Belgrade, Serbia.
+
+I design and build web pages.
+
+Always up for learning new tech, skills and exploring new things about Web.
+
+Passionate and dedicated Developer always open to new challenges daily.
+
+<hr>
+
+🛠️ Tech Tools:
+
+- HTML5
+- CSS3
+- JavaScript (ES+6)
+- React
+
+<hr>
+
+🌐 My Projects:
+
+🟢 https://gaming-gear-website.netlify.app/
+
+🟢 https://gaming-gear-website.netlify.app/
+
+🟢 https://cars-shop-website.netlify.app/
+
+🟢 https://electric-cars-website.netlify.app/
+  
